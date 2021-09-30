@@ -1,0 +1,42 @@
+.portfolioHead{
+    text-align: center;
+}
+.shadows{
+    font-weight: 700;
+    font-size: 52px;
+    color:  #f0f1f3;
+    font-family: "Open Sans", sans-serif;
+    text-transform: uppercase;
+}
+.portHead{
+    position: relative;
+    bottom: 5vh;
+    font-size: 32px;
+    font-weight: 700;
+    color: #5f687b;
+    text-transform: uppercase;
+}
+.link{
+    font-size: 14px;
+    font-weight: 600;
+    color: #444444;
+    transition: all 0.3s ease-in-out;
+}
+.link1{
+
+    font-size: 14px;
+    font-weight: 600;
+    color: #b154b8;
+    transition: all 0.3s ease-in-out;
+
+}
+.link:hover{
+    color: #b154b8;
+    cursor: pointer;
+}
+.renderedLinkColor{
+    font-size: 14px;
+    font-weight: 600;
+    color: #b154b8;
+    transition: all 0.3s ease-in-out;
+}

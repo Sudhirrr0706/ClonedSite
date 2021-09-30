@@ -1,0 +1,15 @@
+.portfolioImage1 , 
+.portfolioImage2,
+.portfolioImage3 ,
+.portfolioImage4 , 
+.portfolioImage5,
+.portfolioImage6,
+.portfolioImage7,
+.portfolioImage8,
+.portfolioImage9{
+    max-width: 100%;
+}
+/* .portfolio-info{
+    position: relative;
+    bottom: 15vh;
+} */

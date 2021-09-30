@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+.aboutHead{
+    font-weight: 700;
+    font-size: 32px;
+    color: #5f687b;
+    font-family: 'Raleway', sans-serif;
+}
+.aboutDescription{
+    font-style: italic;
+}
+.checkListDescription , .aboutFoot{
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+}
+.aboutImage{
+    max-width: 100%;
+}
+.checkListStyle{
+    color: #b154b8;
+}
+.CountStyle{
+    font-size: 48px;
+    font-weight: 700;
+    font-family: "Open Sans", sans-serif;
+    color: #b154b8;
+}
+.countSection{
+    text-align: center;
+}
+.countName{
+    font-size: 14px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+}
+@media only screen and (max-width: 768px){
+    .aboutHead{
+        font-size: 24px;
+    }
+    .CountStyle{
+        font-size: 30px;
+    }
+  
+}

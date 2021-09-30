@@ -1,0 +1,20 @@
+.serviceCardsHead{
+    background-color: #fff;
+}
+.cardDescription{
+    text-align: center;
+    line-height: 24px;
+    font-size: 14px;
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+}
+.cardTitle{
+    font-size: 24px;
+    font-weight: 700;
+    color: #5f687b;
+    transition: ease-in-out 0.3s;
+}
+.cardTitle:hover{
+    color: #b154b8;
+    cursor: pointer;
+}

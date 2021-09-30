@@ -1,0 +1,23 @@
+.cards-bg{
+    background-color: #F9F9FA;
+}
+.cardsHead{
+    font-family: "Raleway", sans-serif;
+    color: #5f687b;
+    font-size: 18px;
+    font-weight: 600;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.cardsHead:hover{
+    color: #b154b8;
+}
+.description{
+    font-family: 'Raleway', sans-serif;
+    line-height: 24px;
+    font-size: 14px;
+    color: #5f687b;
+}
+#iconStyle{
+    color: #b154b8;
+}

@@ -1,0 +1,50 @@
+.carouselCard{
+    font-style: italic;
+    background: white;
+    border-radius: 6px;
+    color: #444444;
+}
+.imageSection{
+    position: relative;
+    bottom: 9vh;
+    right: 15vw;
+}
+.imageSection h3{
+    font-size: 18px;
+    font-weight: bold;
+    color: #111;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "Raleway", sans-serif;
+
+}
+.imageSection h4{
+    font-size: 14px;
+    color: #999;
+    font-family: "Raleway", sans-serif;
+    
+}
+.carouselCardsImages{
+    border-radius: 50%;
+    max-width: 100%;
+    
+}
+.quote{
+    color: #e4e6ea;
+}
+@media only screen and (max-width: 769px){
+    .imageSection{
+        position: relative;
+        bottom: 10vh;
+        right: 30vw;
+    }
+}
+
+@media only screen and (max-width:426px){
+    .imageSection{
+        position: relative;
+        bottom: 7vh;
+        right: 30vw;
+    }
+
+}

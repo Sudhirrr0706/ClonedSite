@@ -1,0 +1,30 @@
+.servicesSection{
+    background-color: #F9F9FA ;
+}
+.ServiceHead{
+    text-align: center;
+   
+}
+.serviceShadow{
+    font-weight: 700;
+    font-size: 52px;
+    color:  #f0f1f3;
+    font-family: "Open Sans", sans-serif;
+    text-transform: uppercase;
+}
+.serviceTitle{
+    position: relative;
+    bottom: 5vh;
+    font-size: 32px;
+    font-weight: 700;
+    color: #5f687b;
+    text-transform: uppercase;
+}
+.serviceDescription{
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+}
+.cardLogo{
+    color: #b154b8;
+}

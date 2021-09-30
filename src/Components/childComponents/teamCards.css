@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+.teamSections{
+    text-align: center;
+   
+}
+.teamImage{
+    max-width: 100%;
+}
+.teamCard{
+    background-color: #fff;
+}
+.teamName{
+    font-weight: 700;
+    font-size: 18px;
+    font-family: "Raleway", sans-serif;
+    line-height: 1.2;
+    color: #444444;
+}
+.teamDesignation{
+    font-style: italic;
+    font-size: 13px;
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+}
+.teamCard p{
+    font-size: 14px;
+    font-style: italic;
+    color: #aaaaaa;
+    font-family: "Open Sans", sans-serif;
+}
+.socialMedia .mediaLogo{
+    color: #919191;
+    transition: 0.5s ease-in;
+}
+.socialMedia .mediaLogo:hover{
+    cursor: pointer;
+    color: #b154b8;
+    animation: spin 10s ease-in;
+}
+@keyframes spin{
+    from { 
+        transform: scale(1.2,1.2); 
+    } to { 
+        transform: scale(1.2,1.2); 
+    }
+}

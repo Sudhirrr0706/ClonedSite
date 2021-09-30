@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap');
+.custom-bg{
+   background-color: white;
+   /* box-shadow: 2px 0 10px grey; */
+   z-index: 1;
+}
+.menuIcon{
+    color: #b154b8;
+}
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+    outline: none;
+    box-shadow: none;
+}
+.logo{
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 1;
+}
+a{
+    text-decoration: none;
+  
+}
+.navbar a{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    color: #6a7489;
+    transition: 0.8s;
+}
+.navbar a:hover{
+    color: #b154b8;
+}
+.navbar a:active{
+    color: #938994;
+}
+
+.dropdown-item:hover{
+   text-decoration: none;
+}
+.dropdown-item:hover{
+    background-color: transparent;
+}
+.dropdown-menu li {
+    position: relative;
+  }
+  .dropdown-menu .dropdown-subMenu {
+    display: none;
+    position: absolute;
+    left: 100%;
+    top: -7px;
+  }
+
+.dropdown-menu > li:hover > .dropdown-subMenu {
+    display: block;
+  }
+.custom-nav-button{
+    transition: 0.5s;
+    border: 1px solid rgba(128, 128, 128, 0.651);
+    
+}
+.custom-nav-button:hover{
+    background-color: #b154b8;
+  
+}
+
+    
